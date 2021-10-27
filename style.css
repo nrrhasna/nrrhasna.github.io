@@ -1,0 +1,22 @@
+.nav {
+  padding-bottom: 35px;
+}
+.jumbotron {
+  padding: 2rem 1rem;
+  background-color: #e9f7f3;
+}
+
+#about {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+#datadiri {
+  padding-top: 1rem;
+  padding: 2rem 1rem;
+}
+
+.alert {
+  padding-bottom: 35px;
+  background-color: rgb(125, 154, 155);
+}
